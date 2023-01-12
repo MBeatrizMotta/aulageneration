@@ -1,6 +1,9 @@
 package Atividade3;
 
 
+import java.util.Scanner;
+
+	public static void main(String[] args) {
 
 public class Automovel {
 	
