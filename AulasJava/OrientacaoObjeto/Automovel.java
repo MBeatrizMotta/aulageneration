@@ -59,20 +59,9 @@ public class Automovel {
 		
 		System.out.println("\nNome: "+nomeProprietario+" possui um automóvel "+modelo+" com placa: "+placa+" e ano: "+ano);
 	}
-
-		
-	
-	
-	
-	
-	
-
 }
 
-
 //segundo exercicio
-
-package Atividade3;
 
 
 
