@@ -2,6 +2,7 @@ package Atividade3;
 
 
 import java.util.Scanner;
+new
 
 	public static void main(String[] args) {
 
